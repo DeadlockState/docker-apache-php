@@ -1,4 +1,4 @@
-FROM punkrock/ubuntu:20.04
+FROM punkrock/ubuntu:22.04
 
 RUN apt update && \
     DEBIAN_FRONTEND=noninteractive \
